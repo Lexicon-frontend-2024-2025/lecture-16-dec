@@ -23,13 +23,14 @@ Tema: Förståelse för media/container queries samt enheter för dessa.
 
  * 11:45 – 12:00 – Vad skall ni göra i eftermiddag?
     - Poster Shop i CSS Grid: Fortsättning och förbereda för morgon dagen. [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
-    - Mängd träning på Media Queries, övningar hittar ni: [Code Along och övningar i denna branch]().
+    - Code AlongMängd träning på Media Queries, övningar hittar ni: * [denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-16-dec/tree/codeAlong-media-queries)
+
 
 ## LUNCH 12.00 till 13.00.
 
 * 13:00 – 16:00 – Fortsättning med: Vad skall ni göra i eftermiddag?
     - Poster Shop i CSS Grid: Fortsättning och förbereda för morgon dagen. [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
-    - Mängd träning på Media Queries, övningar hittar ni: [Code Along och övningar i denna branch]().
+    - Code AlongMängd träning på Media Queries, övningar hittar ni: * [denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-16-dec/tree/codeAlong-media-queries)
       
  * Lärarstöd:
    - Finns tillgänglig för frågor och vägledning.
@@ -44,11 +45,10 @@ Tema: Förståelse för media/container queries samt enheter för dessa.
 * [Container queries](https://www.youtube.com/watch?v=ZSaAHb5dRwQ)
 * [Media och Container queries](https://www.youtube.com/watch?v=2rlWBZ17Wes)
 
-* [Modern weblayout med Flexbox och Grid](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
-
 
 #### Länkar/Läsning
-* [CSS tricks, Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [CSS Media Queries Guide](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+* [CSS media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries)
 
 
 ## Slides:
@@ -56,10 +56,8 @@ Tema: Förståelse för media/container queries samt enheter för dessa.
 
 
 ## Övningar: 
-* [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp/)
+* [App Company, A Figma layout, good for HTML och CSS layout practice.](https://code.zocom.io/frontend/mockups/figma-layout-app-company)
 * [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
-* [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp).
-* [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-9-dec/tree/codeAlong-flexbox)
-* [Flexbox Froggy](https://flexboxfroggy.com/#sv)
+* [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-16-dec/tree/codeAlong-media-queries)
 
 
