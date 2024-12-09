@@ -15,7 +15,7 @@ Tema: Förståelse för media/container queries samt enheter för dessa.
 
 * 09:30 – 10:45 – Teoretisk Introduktion till Media Queries:
   * Power Point Presentation:
-    - Vad är responsive design och varför är det viktigt?
+    - Responsive design.
      
  ## 10:45 – 11:00 – Paus
 
@@ -52,7 +52,7 @@ Tema: Förståelse för media/container queries samt enheter för dessa.
 
 
 ## Slides:
-* [Flexbox - grunder](https://docs.google.com/presentation/d/1GGCqaeKRbkBI1ttC4JbrJ3pZbVvVhauoaF80y8cBcNo/edit#slide=id.p)
+* [Responsiv design](https://docs.google.com/presentation/d/1_5S8nETWNWB5FNe6Cr1eH99WSF3uK05L/edit#slide=id.p1)
 
 
 ## Övningar: 
