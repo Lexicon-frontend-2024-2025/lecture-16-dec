@@ -60,4 +60,6 @@ Tema: Förståelse för media/container queries samt enheter för dessa.
 * [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
 * [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-16-dec/tree/codeAlong-media-queries)
 
-
+## EXTRA Läsning och Övningar: 
+* [Intro Media Queries](https://github.com/Lexicon-Frontend-2024/Lecture-30-May)
+* [Responsivitet Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-html-css-responsivity)
